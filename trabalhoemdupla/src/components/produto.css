@@ -1,0 +1,23 @@
+.App{
+    background-color: black;
+}
+.titulo{
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    color: aliceblue;
+    font-size: 30px;
+}
+h4{
+    color: aqua;
+    font-size: 35px;
+}
+
+p{
+    font-size: 20px;
+}
+.categoria{
+    color: blue;
+}
